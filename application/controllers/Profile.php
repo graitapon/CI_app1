@@ -34,6 +34,7 @@ class Profile extends CI_Controller {
     {
         
         $data = [
+            'id'=>'5710121027',
             'name'=>'Graitapon',
             'lastname'=>'Termwitkhajorn'
         ];

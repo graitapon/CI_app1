@@ -10,6 +10,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     
     <h1>ไกรทพนธ์ เติมวิทย์ขจร 5710121027</h1>
     <?php
+    echo 'ID: '.$data['id'].'<br>';
     echo 'Name: '.$data['name'].'<br>';
     echo 'LastName: '.$data['lastname'].'<br>';
 
